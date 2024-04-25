@@ -1,0 +1,28 @@
+.pricing-header {
+    max-width: 700px;
+}
+.pricing-container {
+    max-width: 1000px;
+}
+.header-hotel{
+    margin-top: 4rem;;
+    display: flex;
+    
+    align-items: center;
+}
+
+.bg-list-group-item{
+    background-color: transparent ;
+}
+.hotel-card-able{
+      transition: transform 0.3s ease-in-out;
+
+}
+.hotel-card-able:hover{
+    transform: scale(0.95);
+}
+
+
+#hotel-card-{
+    display: none;
+}

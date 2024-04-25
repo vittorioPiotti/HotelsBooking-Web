@@ -1,0 +1,18 @@
+.input-data{
+    width:300px;
+}
+    /* Modifica dello stile dell'input di tipo data */
+    /* Modifica dello stile dell'input di tipo data */
+    input[type="date"] {
+        /* Aggiungi qui le tue personalizzazioni CSS */
+        /* Esempio: */
+        padding: 8px; /* Spaziatura interna */
+        border: 1px solid transparent; /* Bordo */
+        border-radius: 4px; /* Bordi arrotondati */
+        font-family: Arial, sans-serif; /* Tipo di carattere */
+        font-size: 14px; /* Dimensione del carattere */
+        color: #333; /* Colore del testo */
+        background-color: transparent; /* Colore di sfondo */
+    }
+
+

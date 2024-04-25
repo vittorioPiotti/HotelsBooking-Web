@@ -1,0 +1,14 @@
+.custom-nav-item > .nav-link {
+    color: #6A994E;
+    background-color: #f4f4f4;
+}
+
+.custom-nav-item > .nav-link.active {
+    background-color: #6A994E;
+    color: white;
+}
+
+
+
+
+

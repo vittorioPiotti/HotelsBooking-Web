@@ -1,0 +1,36 @@
+
+body {
+  font-family: 'Nunito';
+  height: 100vh;
+  width: 100%;
+}
+
+
+.skeleton{
+  cursor:pointer;
+}
+
+
+.on-appear {
+  /* Definizione dell'elemento e del suo stato iniziale */
+  transform: scale(0);
+  transition: transform 0.3s ease; /* Aggiunta di una transizione per il transform */
+
+  /* Al passaggio dello stato visibile */
+  opacity: 1;
+}
+
+.on-appear.show {
+  transform: scale(1); /* Imposta la scala a 1 al momento della visualizzazione */
+}
+
+
+#modal-content {
+  transform: scale(0);
+  transition: transform 0.3s ease;
+}
+
+#modal-content.show-modal {
+  transform: scale(1);
+
+}
