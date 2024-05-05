@@ -3,6 +3,40 @@
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
 
 
+## Albero di Path Frontend
+
+```bash
+$ tree
+.
+├── LICENSE
+├── README.md
+├── ansible.cfg
+├── files
+│   └── set-dns-serial.sh
+├── handlers
+│   └── main.yml
+├── inventory
+├── tasks
+│   ├── configure_bind_dns.yml
+│   ├── configure_dhcpd.yml
+│   ├── configure_haproxy_lb.yml
+│   └── configure_tftp_pxe.yml
+├── templates
+│   ├── default.j2
+│   ├── dhcpd-uefi.conf.j2
+│   ├── dhcpd.conf.j2
+│   ├── haproxy.cfg.j2
+│   ├── named.conf.j2
+│   ├── pxe-bootstrap.j2
+│   ├── pxe-master.j2
+│   ├── pxe-worker.j2
+│   ├── reverse.j2
+│   └── zonefile.j2
+└── vars
+    └── main.yml
+
+5 directories, 21 files
+```
 
 ## Permessi Utente
 
