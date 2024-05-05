@@ -3,6 +3,15 @@
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
 
 
+## Referenze 
+
+- Documentazione Progetto: [Link Doc Progetto](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project)
+- Documentazione Frontend: [Link Doc Client](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Client)
+- Documentazione Backend: [Link Doc Server](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Server)
+
+## Alberi di Path
+
+
 ## Albero di Path Frontend
 
 ```bash
