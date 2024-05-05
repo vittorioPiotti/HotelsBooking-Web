@@ -8,34 +8,66 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 ```bash
 $ tree
 .
-├── LICENSE
-├── README.md
-├── ansible.cfg
-├── files
-│   └── set-dns-serial.sh
-├── handlers
-│   └── main.yml
-├── inventory
-├── tasks
-│   ├── configure_bind_dns.yml
-│   ├── configure_dhcpd.yml
-│   ├── configure_haproxy_lb.yml
-│   └── configure_tftp_pxe.yml
-├── templates
-│   ├── default.j2
-│   ├── dhcpd-uefi.conf.j2
-│   ├── dhcpd.conf.j2
-│   ├── haproxy.cfg.j2
-│   ├── named.conf.j2
-│   ├── pxe-bootstrap.j2
-│   ├── pxe-master.j2
-│   ├── pxe-worker.j2
-│   ├── reverse.j2
-│   └── zonefile.j2
-└── vars
-    └── main.yml
+└── GestioneHotel
+    │
+    └── Client
+        ├── /assets: immagini,stili e script
+        │   ├── /css: stili personalizzati
+        │   │   ├── auth.css
+        │   │   ├── book.css
+        │   │   ├── calendar.css
+        │   │   ├── carousel.css
+        │   │   ├── colors.css
+        │   │   ├── footer.css
+        │   │   ├── global.css
+        │   │   ├── header.css
+        │   │   ├── hotel.css
+        │   │   ├── hotels.css
+        │   │   ├── nunito.css
+        │   │   ├── patterns.css
+        │   │   └── rooms.css
+        │   ├── /dist: librerie di stili e script
+        │   │   ├── /css
+        │   |   |   ├── bootstrap.bundle.min.js.map
+        │   │   │   └── bootstrap.min.css
+        │   │   └── /js
+        │   │       ├── bootstrap.bundle.min.js
+        │   │       ├── bootstrap.bundle.min.js.map
+        │   │       └── jquery.min.js
+        │   ├── /images
+        │   │   ├── icon.png
+        │   │   └── logo.png
+        │   └── /js: script personalizzati
+        │       ├── admin.js
+        │       ├── ajax.js: gestore API js
+        │       ├── auth.js
+        │       ├── book.js
+        │       ├── calnder.js
+        │       ├── home.js
+        │       ├── hotel.js
+        │       ├── index.js
+        │       ├── objects.js: oggetti utilizzati
+        │       └── room.js
+        ├── /src
+        │   ├── /controllers: gestori API php
+        │   │   ├── CAuth.php: gestore API per Profilo
+        │   │   ├── CBooking.php: gestore API per Prenotazioni
+        │   │   ├── CHotel.php: gestore API per Alberghi
+        │   │   └── CRoom.php: gestore API per Stanze
+        │   ├── /entities: entità utilizzate
+        │   │   ├── EAdmin.php
+        │   │   ├── EBooking.php
+        │   │   ├── EClient.php
+        │   │   ├── EHotel.php
+        │   │   └── ERoom.php
+        │   ├── /views: frontend pagine sito
+        │   │   ├── VAuth.php
+        │   │   ├── VBooking.php
+        │   │   ├── VHotel.php
+        │   │   └── VRoom.php
+        │   └── autoloader.php
+        └── index.php
 
-5 directories, 21 files
 ```
 
 ## Permessi Utente
