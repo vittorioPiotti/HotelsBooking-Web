@@ -14,6 +14,25 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/icona.png" alt="Icona" width="200"/>
 
+## Permessi Utente
+
+###  Permessi Universali
+
+  - Autenticazione
+  - Profilo
+
+###  Permessi Cliente
+
+  - Lista degli Hotels
+  - Lista Stanze di Hotel
+  - Prenotazione Stanza di Hotel
+  - Lista Prenotazioni fatte dal Cliente
+    
+###  Permessi Admin
+
+  - Lista degli Hotels Proprietari
+  - Modifica Dati di Hotel Proprietario
+  - Lista Prenotazioni ricevute dall'Admin
 
 ## Sito Desktop
 
@@ -34,7 +53,7 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 ### Stanze di Hotel Cliente
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelDesktop.png" alt="Icona" width="400"/>
+<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hoteldesktop.png" alt="Icona" width="400"/>
 
 
 ### Prenotazione Client
