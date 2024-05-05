@@ -1,4 +1,4 @@
-# Gestione Hotels
+# Gestione Hotels Bootstrap PHP
 
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
 
