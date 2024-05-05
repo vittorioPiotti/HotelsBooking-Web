@@ -1,7 +1,7 @@
 # Frontend Gestione Hotels Bootstrap PHP
 
 
-## Referenze 
+## Documentazione 
 
 - Indice Progetto: [Link Indice Proj](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main)
 - Documentazione Generale: [Link Doc Generale](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project)
