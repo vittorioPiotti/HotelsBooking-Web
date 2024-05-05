@@ -1,3 +1,8 @@
+## Albero di Path Project
+
+```bash
+$ tree
+.
 └── GestioneHotel
     │
     ├── Server
@@ -80,4 +85,7 @@
         │   │   └── VRoom.php
         │   └── autoloader.php
         └── index.php
+
+```
+
 
