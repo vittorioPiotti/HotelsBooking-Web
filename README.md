@@ -29,8 +29,7 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 - Server: [Link al Server](http://000webhostapp.gestionehotelserver.com/)
 - Mockup App Mobile: [Link al Mokcup](https://www.figma.com/proto/BpWZ6Xun7IkvYqavXrUkGt/GestioneHotel?type=design&scaling=scale-down&page-id=0%3A1&node-id=78-38&starting-point-node-id=71%3A150)
 
-- 
-
+  
 ## Icona 
 
 Icona realizzata con  [Figma](https://www.figma.com/)
