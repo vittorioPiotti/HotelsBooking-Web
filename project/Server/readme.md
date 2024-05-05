@@ -1,3 +1,12 @@
+# Backend Gestione Hotel Bootstrap PHP
+
+
+
+## Albero di Path Backend
+
+```bash
+$ tree
+.
 └── GestioneHotel
     └── Server
     	├── /src
@@ -21,3 +30,9 @@
     	│   │   └── SRoom.php
     	│   └── autoloader.php
     	└── index.php
+
+```
+
+
+
+
