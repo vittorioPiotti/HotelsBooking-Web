@@ -1,3 +1,10 @@
+# Frontend Gestione Hotels Bootstrap PHP
+
+## Albero di Path Frontend
+
+```bash
+$ tree
+.
 └── GestioneHotel
     │
     └── Client
@@ -57,3 +64,7 @@
         │   │   └── VRoom.php
         │   └── autoloader.php
         └── index.php
+
+```
+
+
