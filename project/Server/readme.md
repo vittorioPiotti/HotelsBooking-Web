@@ -3,7 +3,8 @@
 
 ## Referenze 
 
-- Documentazione Progetto: [Link Doc Progetto](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project)
+- Indice Progetto: [Link Indice Proj](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main)
+- Documentazione Generale: [Link Doc Generale](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project)
 - Documentazione Frontend: [Link Doc Client](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Client)
 
 
