@@ -1,6 +1,13 @@
 # Progetto Gestione Hotels Bootstrap PHP
 
-## Albero di Path Frontend
+## Referenze 
+
+- Documentazione Frontend: [Link Doc Client](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Client)
+- Documentazione Backend: [Link Doc Server](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Server)
+
+## Alberi di Path
+
+### Albero di Path Frontend
 
 ```bash
 $ tree
@@ -69,7 +76,7 @@ $ tree
 
 
 
-## Albero di Path Backend
+### Albero di Path Backend
 
 ```bash
 $ tree
