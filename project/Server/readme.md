@@ -1,6 +1,11 @@
 # Backend Gestione Hotel Bootstrap PHP
 
 
+## Referenze 
+
+- Documentazione Progetto: [Link Doc Progetto](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project)
+- Documentazione Frontend: [Link Doc Client](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Client)
+
 
 ## Albero di Path Backend
 
