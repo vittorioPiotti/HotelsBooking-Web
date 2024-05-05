@@ -6,6 +6,15 @@
 - Documentazione Frontend: [Link Doc Client](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Client)
 - Documentazione Backend: [Link Doc Server](https://github.com/vittorioPiotti/GestioneHotel-Bootstrap-PHP/tree/main/project/Server)
 
+
+## Referenze
+
+- Client: [Link al Client](https://gestionehotelclient.000webhostapp.com/) 
+- Server: [Link al Server](https://gestionehotelserver.000webhostapp.com/)
+- Mockup App Mobile: [Link al Mokcup](https://www.figma.com/proto/BpWZ6Xun7IkvYqavXrUkGt/GestioneHotel?type=design&scaling=scale-down&page-id=0%3A1&node-id=78-38&starting-point-node-id=71%3A150)
+
+
+
 ## Alberi di Path
 
 ### Albero di Path Frontend
