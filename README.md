@@ -46,69 +46,29 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 
 
-### Prenotazione Client
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookDesktop.png" alt="Icona" width="400"/>
+## Profilo
 
-
-### Lista Hotels Admin
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminDesktop.png" alt="Icona" width="400"/>
+| Auth | Profio|
+ ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authDesktopMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileDesktopMobile.png" alt="Icona" width="300"/>| 
 
 
-### Modifica Hotel Admin
+## Cliente
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminDesktop.png" alt="Icona" width="400"/>
-
-
-### Lista Prenotazioni
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="400"/>
+| Lista Hotels | Lista Stanze| Prenota | Prenotati|
+| ------------ | ------------ | ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsDesktopMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hoteldesktopMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookDesktopMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktopMobile.png" alt="Icona" width="200"/>|
 
 
 
+## Admin
 
-## Sito Mobile
-
-
-### Autenticazione 
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authMobile.png" alt="Icona" width="400"/>
+| Lista Hotels | Modifica | Prenotati |
+| ------------ | -------- | --------- |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminDesktopMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminDesktopMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktopMobile.png" alt="Icona" width="300"/> |
 
 
-### Profilo  
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileMobile.png" alt="Icona" width="400"/>
-
-
-### Lista Hotels Cliente
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsMobile.png" alt="Icona" width="400"/>
-
-
-### Stanze di Hotel Cliente
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelMobile.png" alt="Icona" width="400"/>
-
-
-### Prenotazione Client
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookMobile.png" alt="Icona" width="400"/>
-
-
-### Lista Hotels Admin
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminMobile.png" alt="Icona" width="400"/>
-
-
-### Modifica Hotel Admin
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminMobile.png" alt="Icona" width="400"/>
-
-
-### Lista Prenotazioni
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksMobile.png" alt="Icona" width="400"/>
 
 
 
