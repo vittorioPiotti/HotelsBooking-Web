@@ -1,5 +1,5 @@
 
-<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/header.png" alt="Icona"/>
+<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/header.png"  alt="Icona"/>
 
 # Gestione Hotels PHP
 
@@ -56,7 +56,7 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 | Lista Hotels | Lista Stanze| Prenota | Prenotati|
 | ------------ | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksMobile.png" alt="Icona" width="200"/>|
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksMobile.png " align="top" alt="Icona" width="200"/>|
 
 
 
