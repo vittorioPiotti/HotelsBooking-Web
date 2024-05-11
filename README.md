@@ -51,7 +51,7 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 | Auth | Profio|
  ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileMobile.png" alt="Icona" width="300"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileMobile.png" alt="Icona" width="200"/>| 
 
 
 ## Cliente
@@ -66,7 +66,7 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 | Lista Hotels | Modifica | Prenotati |
 | ------------ | -------- | --------- |
-| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksMobile.png" alt="Icona" width="300"/> |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksMobile.png" alt="Icona" width="200"/> |
 
 
 
