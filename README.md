@@ -13,34 +13,6 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 - Applicazione Web: [Link all'App](https://sl2gz4.csb.app/)
 
 
-## Profilo
-
-| Auth | Profio|
- ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileDesktop.png" alt="Icona" width="300"/>
- | 
-
-
-## Permessi Utente
-
-###  Permessi Universali
-
-  - Autenticazione
-  - Profilo
-
-###  Permessi Cliente
-
-  - Lista degli Hotels
-  - Lista Stanze di Hotel
-  - Prenotazione Stanza di Hotel
-  - Lista Prenotazioni fatte dal Cliente
-    
-###  Permessi Admin
-
-  - Lista degli Hotels Proprietari
-  - Modifica Dati di Hotel Proprietario
-  - Lista Prenotazioni ricevute dall'Admin
-
 ## Icona 
 
 Icona realizzata con  [Figma](https://www.figma.com/)
@@ -48,26 +20,32 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/icona.png" alt="Icona" width="100"/>
 
 
-## Sito Desktop
 
-### Autenticazione 
+## Profilo
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authDesktop.png" alt="Icona" width="400"/>
-
-
-### Profilo  
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileDesktop.png" alt="Icona" width="400"/>
+| Auth | Profio|
+ ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileDesktop.png" alt="Icona" width="300"/>| 
 
 
-### Lista Hotels Cliente
+## Cliente
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsDesktop.png" alt="Icona" width="400"/>
+| Lista Hotels | Lista Stanze| Prenota | Prenotati|
+ ------------ | ------------  ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hoteldesktop.png" alt="Icona" width="300"/>
+ | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="300"/>| 
 
 
-### Stanze di Hotel Cliente
+ 
+## Admin
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hoteldesktop.png" alt="Icona" width="400"/>
+| Lista Hotels | Modifica | Prenotati|
+ ------------ | ------------  ------------ | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminDesktop.png" alt="Icona" width="300"/>
+ | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="300"/> | 
+ 
+
+
 
 
 ### Prenotazione Client
