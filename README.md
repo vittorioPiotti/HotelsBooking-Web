@@ -36,14 +36,12 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 
 
- 
 ## Admin
 
-| Lista Hotels | Modifica |Prenotati|
------------- | ------------  | ------------ |
-| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminDesktop.png" alt="Icona" width="300"/>
- | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="300"/> | 
- 
+| Lista Hotels | Modifica | Prenotati |
+| ------------ | -------- | --------- |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsAdminDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelAdminDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="300"/> |
+
 
 
 
