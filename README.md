@@ -37,7 +37,7 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 
 Icona realizzata con  [Figma](https://www.figma.com/)
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/icona.png" alt="Icona" width="200"/>
+<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/icona.png" alt="Icona" width="100"/>
 
 
 ## Sito Desktop
