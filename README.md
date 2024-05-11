@@ -13,6 +13,14 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 - Applicazione Web: [Link all'App](https://sl2gz4.csb.app/)
 
 
+## Profilo
+
+| Auth | Profio|
+ ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/authDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/profileDesktop.png" alt="Icona" width="300"/>
+ | 
+
+
 ## Permessi Utente
 
 ###  Permessi Universali
