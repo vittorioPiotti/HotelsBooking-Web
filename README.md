@@ -31,9 +31,9 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 ## Cliente
 
 | Lista Hotels | Lista Stanze| Prenota | Prenotati|
------------- | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsDesktop.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hoteldesktop.png" alt="Icona" width="200"/>
- | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookDesktop.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="200"/>| 
+| ------------ | ------------ | ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hotelsDesktop.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/hoteldesktop.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/bookDesktop.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/booksDesktop.png" alt="Icona" width="200"/>|
+
 
 
  
