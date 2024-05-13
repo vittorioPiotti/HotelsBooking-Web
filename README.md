@@ -15,7 +15,8 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 
 ## Ispirazione
 
-Lo sfondo del sito web è stato ripresto dalla pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
+- **Immagine di Sfondo**: è stata utilizzata l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
+- **Calendario**: è stato utilizzato il calendario presente nella pagina CodePen: [Link al Calendario](https://codepen.io/sawyer22/pen/ddYroL)
 
 
 ## Icona 
