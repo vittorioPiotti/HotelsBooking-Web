@@ -13,6 +13,11 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 - Sito Web Backend: [Link al Backend](http://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php)
 
 
+## Ispirazione
+
+Lo sfondo del sito web è stato ripresto dalla pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
+
+
 ## Icona 
 
 Icona realizzata con  [Figma](https://www.figma.com/)
