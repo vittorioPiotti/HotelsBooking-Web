@@ -5,6 +5,15 @@
 
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
 
+## Icona 
+
+Icona realizzata con  [Figma](https://www.figma.com/)
+
+<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/icona.png" alt="Icona" width="100"/>
+
+
+
+
 ## Preview 
 
 
@@ -24,13 +33,6 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 
 - **Immagine di Sfondo**: è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
 - **Calendario**: è stato utilizzato **con le opportune modifiche** il calendario presente nella pagina CodePen: [Link al Calendario](https://codepen.io/sawyer22/pen/ddYroL) 
-
-
-## Icona 
-
-Icona realizzata con  [Figma](https://www.figma.com/)
-
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/icona.png" alt="Icona" width="100"/>
 
 
 
