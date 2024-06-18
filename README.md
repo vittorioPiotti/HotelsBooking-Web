@@ -27,6 +27,15 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 - Sito Web Backend: [Link al Backend](http://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php)
 
 
+## Ispirazione
+
+- **Immagine di Sfondo**: è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
+- **Calendario**: è stato utilizzato **con le opportune modifiche** il calendario presente nella pagina CodePen: [Link al Calendario](https://codepen.io/sawyer22/pen/ddYroL) 
+
+
+
+
+
 
 ## Sito Web
 
@@ -38,14 +47,6 @@ Sito Web Gestione Hotels: [Link al Sito](https://vittoriopiotti.altervista.org/G
 
 
 <img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/socialpreview.png" alt="Icona" width="100%"/>
-
-
-
-## Ispirazione
-
-- **Immagine di Sfondo**: è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
-- **Calendario**: è stato utilizzato **con le opportune modifiche** il calendario presente nella pagina CodePen: [Link al Calendario](https://codepen.io/sawyer22/pen/ddYroL) 
-
 
 
 
