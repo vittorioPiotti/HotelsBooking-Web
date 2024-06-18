@@ -19,14 +19,6 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 
 
-## Referenze
-
-
-
-- Sito Web Frontend: [Link al Frontend](http://vittoriopiotti.altervista.org/GestioneHotels/Online/Client/index.php) 
-- Sito Web Backend: [Link al Backend](http://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php)
-
-
 ## Ispirazione
 
 - **Immagine di Sfondo**: è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
