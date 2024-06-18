@@ -14,10 +14,8 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 
 
-## Preview 
 
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/socialpreview.png" alt="Icona" width="100%"/>
 
 
 
@@ -27,6 +25,20 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 - Sito Web Frontend: [Link al Frontend](http://vittoriopiotti.altervista.org/GestioneHotels/Online/Client/index.php) 
 - Sito Web Backend: [Link al Backend](http://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php)
+
+
+
+## Sito Web
+
+Sito Web Gestione Hotels: [Link al Sito](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Client/index.php)
+
+
+---
+
+
+
+<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/socialpreview.png" alt="Icona" width="100%"/>
+
 
 
 ## Ispirazione
