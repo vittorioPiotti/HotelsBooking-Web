@@ -5,6 +5,10 @@
 
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
 
+
+> [!TIP]
+> Corretto funzionamento garantito
+
 ## Icona 
 
 Icona realizzata con  [Figma](https://www.figma.com/)
