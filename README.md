@@ -42,7 +42,7 @@ Sito Web Gestione Hotels: [Link al Sito](https://vittoriopiotti.altervista.org/G
 
 
 
-<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/socialpreview.png" alt="Icona" width="100%"/>
+<img src="https://github.com/vittorioPiotti/GestioneHotel/blob/main/socialpreview80.png" alt="Icona" width="100%"/>
 
 
 
