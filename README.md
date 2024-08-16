@@ -51,7 +51,7 @@ Sito Web Gestione Hotels: [Link al Sito](https://vittoriopiotti.altervista.org/G
 
 
 
-## Albero di Path Frontend
+## Albero di Path 
 
 ```bash
 $ tree
