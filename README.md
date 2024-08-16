@@ -3,7 +3,7 @@
 
 # Gestione Hotels PHP
 
-Link a server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Gestione-Hotels-App)
+Link al Server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Gestione-Hotels-Server)
 
 
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
