@@ -13,9 +13,13 @@ session_start();//da cancellare al logout con session_destroy
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.122.0">
+    <meta property="og:title" content="Gestione Hotels">
+    <meta property="og:description" content="Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze.">
+    <meta property="og:url" content="https://vittoriopiotti.altervista.org/GestioneHotels/Online/Client/index.php">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://github.com/vittorioPiotti/Gestione-Hotels-Web/blob/main/socialpreview80.png?raw=true">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="640">
     <title>GH Gestione Hotel</title>
     <link href="frontend/assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
