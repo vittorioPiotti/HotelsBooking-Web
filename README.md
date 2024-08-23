@@ -9,6 +9,11 @@ Link al Server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Ge
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
 
 
+> [!NOTE]
+> Il progetto è stato sviluppato a scuola per fini scolastici in funzione della consegna assegnata dal docente come lavoro individuale
+
+
+
 > [!TIP]
 > Corretto funzionamento garantito
 
