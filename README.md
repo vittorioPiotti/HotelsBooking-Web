@@ -13,8 +13,6 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 > Progetto scolastico
 
 
-> [!TIP]
-> Corretto funzionamento garantito
 
 #### Support Me
 
