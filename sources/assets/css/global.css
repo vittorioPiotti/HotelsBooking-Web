@@ -1,0 +1,51 @@
+/*
+  Hotels Booking Web v1.0.0 (https://github.com/vittorioPiotti/HotelsBooking-Web/releases/tag/1.0.0)
+  Copyright 2024 Vittorio Piotti
+  Licensed under GPL-3.0 (https://github.com/vittorioPiotti/HotelsBooking-Web/blob/main/LICENSE.md)
+*/
+body {
+  font-family: 'Nunito';
+  height: 100vh;
+  width: 100%;
+}
+
+
+.skeleton{
+  cursor:pointer;
+}
+
+#container-card{
+-webkit-box-shadow: -6px 16px 58px -26px rgba(66, 68, 90, 1);
+-moz-box-shadow: -6px 16px 58px -26px rgba(66, 68, 90, 1);
+box-shadow: -6px 16px 58px -26px rgba(66, 68, 90, 1);
+}
+    #container-card:hover {
+        -webkit-box-shadow: -1px 16px 82px -34px rgba(66, 68, 90, 1);
+-moz-box-shadow: -1px 16px 82px -34px rgba(66, 68, 90, 1);
+box-shadow: -1px 16px 82px -34px rgba(66, 68, 90, 1);
+
+
+    }
+.on-appear {
+  /* Definizione dell'elemento e del suo stato iniziale */
+  transform: scale(0);
+  transition: transform 0.3s ease; /* Aggiunta di una transizione per il transform */
+
+  /* Al passaggio dello stato visibile */
+  opacity: 1;
+}
+
+.on-appear.show {
+  transform: scale(1); /* Imposta la scala a 1 al momento della visualizzazione */
+}
+
+
+#modal-content {
+  transform: scale(0);
+  transition: transform 0.3s ease;
+}
+
+#modal-content.show-modal {
+  transform: scale(1);
+
+}

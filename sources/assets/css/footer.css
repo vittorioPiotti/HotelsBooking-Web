@@ -1,0 +1,29 @@
+/*
+  Hotels Booking Web v1.0.0 (https://github.com/vittorioPiotti/HotelsBooking-Web/releases/tag/1.0.0)
+  Copyright 2024 Vittorio Piotti
+  Licensed under GPL-3.0 (https://github.com/vittorioPiotti/HotelsBooking-Web/blob/main/LICENSE.md)
+*/
+.logo-footer {
+    width: 45px;
+    height: 45px;
+}
+.text-title-first-footer {
+    font-weight: 300;
+    font-size: 25px;
+}
+  
+.text-title-second-footer {
+    font-weight: 400;
+    font-size: 25px;
+}
+  
+
+@media screen and (max-width: 1050px) {
+    #nav-tabs {
+        display: none;
+    }
+}
+
+#nav-tabs {
+    display: visible;
+}

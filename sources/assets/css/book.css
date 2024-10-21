@@ -1,0 +1,19 @@
+/*
+  Hotels Booking Web v1.0.0 (https://github.com/vittorioPiotti/HotelsBooking-Web/releases/tag/1.0.0)
+  Copyright 2024 Vittorio Piotti
+  Licensed under GPL-3.0 (https://github.com/vittorioPiotti/HotelsBooking-Web/blob/main/LICENSE.md)
+*/
+
+.custom-nav-item > .nav-link {
+    color: #6A994E;
+    background-color: #f4f4f4;
+}
+
+.custom-nav-item > .nav-link.active {
+    background-color: #6A994E;
+    color: white;
+}
+
+
+
+
