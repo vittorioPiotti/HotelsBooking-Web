@@ -3,10 +3,9 @@
 
 # Gestione Hotels PHP
 
-Link al Server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Gestione-Hotels-Server)
-
 
 Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Hotel e account Admin per gestire il caricamento dei dati su Hotel e Stanze
+
 
 
 > [!NOTE]
@@ -43,7 +42,7 @@ Icona realizzata con  [Figma](https://www.figma.com/)
 
 
 
-## Sito Web
+## Preview
 
 Sito Web Gestione Hotels: [Link al Sito](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Client/index.php)
 
