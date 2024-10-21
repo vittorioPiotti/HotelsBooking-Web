@@ -127,7 +127,37 @@ $ tree
 
 
 
-
+## Licenze
   
+> [!WARNING]
+> Questo software è rilasciato sotto la licenza **GPL v3** quindi l'uso, la modifica e la distribuzione del codice sorgente ne deve rispettare i termini.
+> 
+> I contenuti multimediali possono essere soggetti a una **licenza non commerciale** richiedendo l'acquisto di una licenza separata.
+
+
+### Hotels Booking Web
+
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/) 
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/HotelsBooking-Web/releases/tag/1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/HotelsBooking-Web/blob/main/LICENSE.md)
+
+
+---
+
+
+
+### Bootstrap
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v5.2](https://github.com/twbs/bootstrap/releases/tag/v5.2.0)
+
+**License** [MIT](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+
+
+
 
 
