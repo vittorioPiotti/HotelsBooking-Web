@@ -9,7 +9,7 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 
 
 > [!NOTE]
-> Progetto scolastico
+> Progetto scolastico 🎓
 
 
 
