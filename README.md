@@ -13,10 +13,7 @@ Sito web per Gestione Hotel con account Cliente per Prenotazioni delle Stanze Ho
 
 
 
-#### Support Me
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
+---
 
 ## Icona 
 
